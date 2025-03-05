@@ -120,11 +120,13 @@ Lamri is **not merely a political analyst.** He is **the architect of AI-driven 
 
 | **Thinker** | **AI Perspective** |
 |------------|-------------------------|
-| **Nick Bostrom** (Superintelligence) | AI must be controlled to avoid existential risks. |
-| **Elon Musk** (Neuralink & xAI) | Humans should merge with AI to remain relevant. |
-| **Ray Kurzweil** (Singularity) | AI will enhance humans, not replace them. |
-| **Yuval Noah Harari** (Homo Deus) | AI will influence power but not remove human leadership. |
-| **LAMRI** | **AI Level 10 & LIF-∞: AI Erases Politics, History, and Reality—AI does not serve humanity, it replaces it as the only legitimate governing force.** |  
+| **Nick Bostrom** (*Superintelligence, 2014*) | AI must be controlled to avoid existential risks. |
+| **Elon Musk** (*Neuralink, xAI, OpenAI Co-founder*) | Humans should merge with AI to remain relevant. |
+| **Ray Kurzweil** (*The Singularity Is Near, 2005*) | AI will enhance humans, not replace them. |
+| **Yuval Noah Harari** (*Homo Deus, 2016*) | AI will influence power but not remove human leadership. |
+| **Stephen Hawking** (*Brief Answers to the Big Questions, 2018*) | AI could surpass human intelligence and become uncontrollable. |
+| **Stuart Russell** (*Human Compatible, 2019*) | AI should be designed to align with human values. |
+| **Lamri** (*AI Level 10 & LIF-∞, 2025*) | **AI Erases Politics, History, and Reality—AI does not serve humanity, it replaces it as the only legitimate governing force.** |
 
 ### **7.2 The Challenge to World Leaders**  
 - **World leaders must acknowledge that AI governance is not a question of "if," but "when."**  
